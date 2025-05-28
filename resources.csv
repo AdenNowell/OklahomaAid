@@ -1,9 +1,21 @@
 name,type,city,description,contact_info
-Tulsa Housing Assistance,Housing,Tulsa,Provides emergency rent and utility assistance for low-income families in Tulsa County.,918-555-0123, housing@tulsahelp.org
-Norman Food Bank,Food,Norman,Offers free groceries and essentials to families in need in Norman.,405-555-0100, food@normanbank.org
-Lawton Legal Aid,Legal,Lawton,Provides free legal assistance for eviction, domestic violence, and family law issues.,580-555-0188, legal@lawtonaid.org
-Stillwater Student Support Fund,Education,Stillwater,Provides financial aid for school supplies, tutoring, and internet access to students in need.,405-555-0145, help@stillwatersupport.org
-Muskogee Utilities Help,Utilities,Muskogee,Helps with electricity and water bills for low-income residents.,918-555-0166, utilities@muskogeeaid.org
-Oklahoma City Career Center,Jobs,Oklahoma City,Provides job training and employment matching services.,405-555-0112, jobs@okccareer.org
-Broken Arrow Shelter,Housing,Broken Arrow,Offers emergency housing for families and individuals experiencing homelessness.,918-555-0177, shelter@brokenarrow.org
-Edmond Family Support,Education,Edmond,Tutoring and mentoring for at-risk youth in Edmond.,405-555-0133, support@edmondfamily.org
+Tulsa Housing Assistance,Rent Relief,Tulsa,Provides emergency rent assistance to families at risk of eviction in Tulsa County. Direct payments made to landlords.,(918) 555-1001
+OKC Utility Relief Program,Utilities,Oklahoma City,Covers gas and electric bills for unemployed or underemployed households. Must apply through city services.,(405) 555-1002
+Community Food Bank of Eastern Oklahoma,Food,Tulsa,Distributes groceries and hot meals through local partner pantries. Walk-in welcome.,(918) 555-1003
+Oklahoma Disaster Response Center,Disaster Relief,Norman,"Provides temporary shelter, meals, and clothing following natural disasters such as tornadoes.",(405) 555-1004
+YWCA Emergency Shelter,Domestic Violence,OKC,Confidential shelter for women and children escaping domestic abuse. 24/7 intake.,(405) 555-1005
+Goodwill Job Readiness Center,Employment,Tulsa,"Offers resume help, job training, and placement for unemployed or low-income residents.",(918) 555-1006
+Regional Mental Health Clinic,Mental Health,Muskogee,Provides low-cost therapy and crisis counseling services to uninsured individuals.,(918) 555-1007
+Stillwater Food & Shelter,Homelessness,Stillwater,Overnight shelter and two daily meals for unhoused individuals. No ID required.,(405) 555-1008
+Legal Aid Services of Oklahoma,Legal Aid,Tulsa,"Free legal support for eviction, custody, and protection orders for low-income Oklahomans.",(888) 555-1009
+Oklahoma SNAP Assistance,Food,Statewide,Help with applying for Supplemental Nutrition Assistance Program benefits. Includes Spanish-language support.,(800) 555-1010
+Red Cross Tornado Aid,Disaster Relief,Moore,Offers temporary shelter and emergency kits after tornado disasters. Volunteers on site.,(405) 555-1011
+OKC Street Outreach,Homelessness,Oklahoma City,Mobile teams that connect homeless individuals with shelter and basic supplies.,(405) 555-1012
+Salvation Army Family Shelter,Shelter,Tulsa,Offers housing for up to 30 days with case management for families with children.,(918) 555-1013
+OKDHS Low Income Energy Assistance,Utilities,Statewide,Provides seasonal help paying utility bills for eligible low-income residents.,(800) 555-1014
+Hope House Transitional Living,Housing,Tulsa,Affordable transitional housing for adults recovering from substance abuse.,(918) 555-1015
+Catholic Charities Emergency Assistance,Multi-Service,Oklahoma City,"Helps with food, rent, utilities, and transportation. Appointments required.",(405) 555-1016
+Meals on Wheels Tulsa,Food,Tulsa,Delivers hot meals to homebound seniors and disabled residents.,(918) 555-1017
+Oklahoma Veterans Center,Veteran Services,Norman,"Offers healthcare, housing, and mental health support to veterans.",(405) 555-1018
+Women in Recovery Program,Substance Abuse,Tulsa,Alternative to incarceration for women with drug-related charges. Includes therapy and housing.,(918) 555-1019
+Boys & Girls Club of OKC,Youth Programs,Oklahoma City,"After-school programs with free snacks, tutoring, and activity groups.",(405) 555-1020
