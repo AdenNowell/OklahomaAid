@@ -1,0 +1,4 @@
+sentence-transformers
+weaviate-client<4.0.0
+python-dotenv
+pandas
