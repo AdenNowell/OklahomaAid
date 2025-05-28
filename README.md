@@ -14,8 +14,7 @@ Users can ask natural language questions like:
 The agent returns the most relevant aid programs from a structured dataset using vector similarity search.
 
 ## 💡 Inspiration
-This project was built in under 4 hours at GitHub Hack Night to support the **Rebuilding LA** theme, showing how AI can help people discover local resources.
-
+This project was built in under 2.5 hours at GitHub Hack Night.
 ## 🙌 Demo Prompts
 - "I lost my job and can't pay rent"
 - "Legal support for family law in Oklahoma"
